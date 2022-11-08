@@ -1,0 +1,12 @@
+GET https://gw.com/users/1
+###
+
+GET https://gw.com/time
+###
+
+
+POST https://gw.com/debug/on
+###
+
+POST https://gw.com/debug/off
+###
